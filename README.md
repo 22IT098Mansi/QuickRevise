@@ -54,7 +54,6 @@ git clone https://github.com/22IT098Mansi/QuickRevise.git
 cd QuickRevise
 flutter pub get
 flutter run
----
 ```
 ## 📂 Folder Structure
 
