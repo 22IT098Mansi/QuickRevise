@@ -56,7 +56,7 @@ cd QuickRevise
 flutter pub get
 flutter run
 ---
-
+```
 ## 📂 Folder Structure
 
 QuickRevise/ ├── lib/ │ ├── screens/ │ ├── widgets/ │ ├── models/ │ └── main.dart ├── assets/ │ └── images/ ├── pubspec.yaml
