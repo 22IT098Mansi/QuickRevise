@@ -18,9 +18,7 @@ QuickRevise is a sleek and efficient Android app designed for Computer Engineeri
 
 ## 📽️ Demo
 
-https://user-images.githubusercontent.com/your-username/your-video-id.mp4  
-> 🔺 *Replace the above link with your uploaded screen recording from GitHub or any other hosting service*
-
+https://github.com/22IT098Mansi/QuickRevise/blob/main/screenrecording/WhatsApp%20Video%202025-04-24%20at%2022.56.25.mp4
 ---
 
 ## 📸 Screenshots
